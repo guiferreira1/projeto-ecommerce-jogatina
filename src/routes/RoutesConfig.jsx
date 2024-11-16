@@ -4,8 +4,6 @@ import SignUp from '../pages/SignUp';
 import GamesPage from '../pages/GamesPage';
 import { createBrowserRouter } from 'react-router-dom';
 
-
-
 export const router = createBrowserRouter([
     {
         path: "/",
